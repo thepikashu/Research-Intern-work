@@ -1,6 +1,6 @@
 # Exoplanetary Multi-System Analysis: Investigating the Radius Valley
 
-[![Data Source: NASA Exoplanet Archive](https://img.shields.io/badge/Data-NASA%20Exoplanet%20Archive-orange)](https://exoplanetarchive.ipac.caltech.edu/)
+[![Data Source: NASA Exoplanet Archive](https://img.shields.io/badge/Data-NASA%20Exoplanet%20Archive-orange)](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PS)
 
 ## Overview
 This project explores the **Radius Valley**—a significant gap in the distribution of exoplanetary radii between $1.5$ and $2.0 \ R_{\oplus}$. Conducted during my research internship at the **Tata Institute of Fundamental Research (TIFR)**, this study utilizes data from over **3,000 multiplanetary systems** (Kepler and TESS) to understand how stellar radiation influences atmospheric loss.
