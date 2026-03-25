@@ -1,0 +1,6 @@
+* Python
+* NumPy, Pandas
+* Astropy, Astroquery
+* Scikit-learn
+* TensorFlow / Keras
+* Matplotlib, Seaborn
