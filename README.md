@@ -46,12 +46,3 @@ The goal is to identify transit signals (dip in brightness) using machine learni
 * Batch Normalization
 * Fully Connected Layers
 * Sigmoid output for binary classification
-
-## 🛠️ Tech Stack
-
-* Python
-* NumPy, Pandas
-* Astropy, Astroquery
-* Scikit-learn
-* TensorFlow / Keras
-* Matplotlib, Seaborn
