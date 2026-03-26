@@ -35,6 +35,11 @@ All the plots are available [here](plots)
   
 ![Radius Distribution Histogram](plots/planet_radii_distribution.png)
 
+## Key Findings
+Our analysis of multiplanetary systems across different spectral types (M, K, G, F) confirms the presence of the **Radius Valley**. 
+* **Observation:** M-type systems show a distinct atmospheric loss sensitivity compared to G-type stars.
+* **Metric:** The calculated $\Delta R / \Delta \log(S)$ suggests that photoevaporation is likely the dominant mechanism for atmospheric stripping in short-period planets orbiting high-temperature hosts.
+
 ## Conclusion
 The results indicate a clear bimodal distribution across all spectral types. The $\Delta R / \Delta \log S$ metric shows varying sensitivities to stellar irradiation, suggesting that photoevaporation plays a dominant role in shaping the planetary systems of higher-temperature stars.
 
